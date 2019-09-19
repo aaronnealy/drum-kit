@@ -1,8 +1,7 @@
 html {
     font-size: 10px;
-    background: url(images/history_masthead.jpg) top center;
-    background-repeat: no-repeat;
-    background-color: black;
+    background: url(images/topview21.jpg) top center no-repeat black;
+    background-size: 100%;
 }
 
 body, html {
@@ -37,3 +36,4 @@ kbd {
     display:block;
     font-size: 4rem;
 }
+
